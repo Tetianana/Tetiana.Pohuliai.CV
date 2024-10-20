@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../FRONT-END"
+		},
+		{
+			"path": "../../Java Script"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Java Script"
+	}
+}
